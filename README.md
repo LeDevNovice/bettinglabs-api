@@ -1,1 +1,1 @@
-# Nestjs Typescript Template
+# Bettinglabs API
